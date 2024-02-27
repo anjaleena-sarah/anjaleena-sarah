@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alfiaah.alfiaah" />
 <div align="center"> 
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=F71F9C&random=false&width=435&lines=Hi+There%F0%9F%91%8B;I'm+ANJALEENA+SARAH+K+R" alt="Typing SVG" /></a>
