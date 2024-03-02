@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=anjaleena-sarah.anjaleena-sarah" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anjaleena-sarah.anjaleena-sarah" />
 
 <div align="center"> 
 <h1 align="center">
