@@ -8,7 +8,7 @@
 </h1>
 </div>
 
-- 🎓 I’m currently pursuing my Master's in Computer Applications from <a href="https://rajagiri.edu/">Rajagiri College of Social Sciences.</a>
+- 🎓 I’m an MCA Graduate from <a href="https://rajagiri.edu/">Rajagiri College of Social Sciences.</a>
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Laravel
 - 📫 Reach me on @anjaleenasarah@gmail.com
