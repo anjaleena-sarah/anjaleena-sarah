@@ -10,7 +10,7 @@
 
 - 🎓 I’m an MCA Graduate from <a href="https://rajagiri.edu/">Rajagiri College of Social Sciences.</a>
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning JS
 - 📫 Reach me on @anjaleenasarah@gmail.com
 
 
