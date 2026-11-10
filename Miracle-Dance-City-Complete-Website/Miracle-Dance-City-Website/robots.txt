@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anjaleena-sarah.github.io/miracle-dance-city/sitemap.xml
